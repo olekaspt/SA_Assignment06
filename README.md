@@ -39,13 +39,13 @@ An Session can have mutliple work books, and each workbook contains 1 or more wo
 
 Document the API using the rules put forth in the slide deck.  
 
-* Use Active Voice (not Passive Voice)
-* Use Present Tense
-* Use Second Person to Refer to the Reader
-* Be Polite; Don’t Be Bossy
-* Be Specific; Don’t Be Vague
-* Avoid Complex English or Figures of Speech
-* Summary and remarks sections
+1) Use Active Voice (not Passive Voice)
+1) Use Present Tense
+1) Use Second Person to Refer to the Reader
+1) Be Polite; Don’t Be Bossy
+1) Be Specific; Don’t Be Vague
+1) Avoid Complex English or Figures of Speech
+1) Summary and remarks sections
 
 
 
