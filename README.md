@@ -29,25 +29,23 @@ Generate a stub API to do following (image it works like excel)
 
 1) API to obtain an Session object
 3) API to represent an Workbook object
-2) API to manipulate the Workbooks (open, close, save) off of Session
+2) API to manipulate the Workbooks (open, close, save, save as) off of Session
 3) API to represent an Worksheet object
-4) API to manipulate an Work sheet object (make active, delete, rename)
+4) API to manipulate an Work sheet objects (make active, delete, rename)
+5) Your methods should take in inputs if applicable.
+6) If applicable describe what an error will occur.  I.e. file not found, or bad path?
 
 An Session can have mutliple work books, and each workbook contains 1 or more worksheets.
 
 Document the API using the rules put forth in the slide deck.  
 
-# Use Active Voice (not Passive Voice)
-# Use Present Tense
-# Use Second Person to Refer to the Reader
-# Be Polite; Don’t Be Bossy
-# Be Specific; Don’t Be Vague
-# Avoid Complex English or Figures of Speech
-# Summary and remarks sections
-
-
-
-
+* Use Active Voice (not Passive Voice)
+* Use Present Tense
+* Use Second Person to Refer to the Reader
+* Be Polite; Don’t Be Bossy
+* Be Specific; Don’t Be Vague
+* Avoid Complex English or Figures of Speech
+* Summary and remarks sections
 
 
 
