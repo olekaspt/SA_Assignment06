@@ -5,14 +5,21 @@
 
 ## PIMPL
 
-Using the repo https://github.com/olekaspt/SoftwareArchitectureCLassApplication.git
+Using the repo https://github.com/olekaspt/PIMPL_HW
 
-Your goal is to generate an new class in the C++ Automation binding, which uses the PIMPL pattern.
+Your goal is to make it so StableClass uses the PIMPL pattern so we can add new functionality (the newly added comments) without requiring recomiples.
+
+Use https://github.com/olekaspt/SoftwareArchitectureCLassApplication AutomationAPI_Part.h (uses PIMPL) and NonPimplVersionOfPart.h_ (doesn't use PIMPL pattern) as a guide.
+
+Your goal is make sure the external facing class (StableClass) doesn't use virtual or override methods, and doesn't have any private data members other than the PIMPL.
+
+If you do this right, you only need to modify StableClass.h and StableClass.cpp
+
 
 PDF Report:
 WHat value does the PIMPL pattern provide.
 
-TODO pending
+
 
 ## Document an API
 
@@ -46,4 +53,4 @@ The usual rubric of your partners particpation.
 Submission
 1) PDF with desired information specified above.
 2) Zip of HTML pages of API
-3) Zip of AUtomation files you generated or modified.
+3) Zip of PIMPL implementation and header files for StableClass
